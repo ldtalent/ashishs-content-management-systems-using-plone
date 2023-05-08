@@ -1,0 +1,32 @@
+body{
+    background:black;
+    color:white;
+}
+.ui.secondary.segment{
+    display:none;
+}
+
+.banner-custom{
+    background:url("https://images.unsplash.com/photo-1675784173767-a38ffd54a68e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80");
+}
+.custom-banner-button {
+  padding: 1rem 2rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: ghostwhite;
+  background-color: slategrey;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 1rem;
+  max-width:300px;
+  margin:0px auto;
+}
+
+.tagline-custom {
+  font-size: 2rem;
+  font-style: italic;
+  color: #fff;
+  text-shadow: 2px 1px rgba(22,22,122,1);
+  margin-top: 0.5rem;
+}
